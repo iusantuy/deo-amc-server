@@ -16,5 +16,3 @@ const config = {
 }
 
 module.exports = config
-
-// 'mongodb+srv://fha971128:zuxXeOcv2TPcp95G@deo-amc.diyfjoz.mongodb.net/?retryWrites=true&w=majority'
